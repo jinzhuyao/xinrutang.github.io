@@ -167,7 +167,7 @@ header ul a strong {
 
 .wrapper {
   width:860px;
-  margin: 50px auto 30px auto;  /* 上 50px, 左右居中, 下 0 */
+  margin: 30px auto 20px auto;  /* 上 50px, 左右居中, 下 0 */
   padding: 0 20px;  /* 防止小屏贴边 */
 } 
 
