@@ -14,7 +14,7 @@ body {
   color: #595959;
 }
 
-.container {
+.wrapper {
   max-width: 900px;      /* 控制内容宽度 */
   padding: 30px 20px;    /* 内边距 */
   margin-left: 40px;     /* 整体靠左 */
@@ -68,10 +68,10 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
+<!--.wrapper {
   width:860px;
   margin:0 auto;
-}
+} -->
 
 blockquote {
   border-left:1px solid #e5e5e5;
